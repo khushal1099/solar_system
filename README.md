@@ -7,7 +7,7 @@
 <img src="https://github.com/khushal1099/solar_system/assets/138639130/e0ef3a24-b609-4cdb-9ec1-b7fa259ff992" width="200" height="400">
 
 # Screen recording
-
+https://drive.google.com/file/d/1LeqU0goM1tbg86-tOzvT2gKuq2M0Okl0/view?usp=sharing
 # Project Description:
 ##
 "Galaxy Planets (Animator)" is an exciting mobile application built using Flutter, focusing on
