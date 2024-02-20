@@ -1,20 +1,11 @@
 # solar_system
 
-A new Flutter project.
+# Screen shots
+<img src="https://github.com/khushal1099/solar_system/assets/138639130/b5de372a-b122-4387-886c-1bc2fc3c3bc0" width="200" height="400">
+<img src="https://github.com/khushal1099/solar_system/assets/138639130/4d796def-f9bb-4df0-9bad-d5587db29350" width="200" height="400">
+<img src="https://github.com/khushal1099/solar_system/assets/138639130/c90e61de-c339-44e1-96fc-a1e0da37ebd8" width="200" height="400">
+<img src="https://github.com/khushal1099/solar_system/assets/138639130/e0ef3a24-b609-4cdb-9ec1-b7fa259ff992" width="200" height="400">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-Project Definition: Galaxy Planets (Animator)
 
 # Project Description:
 ##
