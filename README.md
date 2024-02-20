@@ -6,6 +6,7 @@
 <img src="https://github.com/khushal1099/solar_system/assets/138639130/c90e61de-c339-44e1-96fc-a1e0da37ebd8" width="200" height="400">
 <img src="https://github.com/khushal1099/solar_system/assets/138639130/e0ef3a24-b609-4cdb-9ec1-b7fa259ff992" width="200" height="400">
 
+# Screen recording
 
 # Project Description:
 ##
